@@ -41,4 +41,4 @@ def fetch_multi(tickers, start_date, end_date):
 
 
 if __name__ == '__main__':
-    print fetch('GOOG', '2010-01-01', '2011-01-01')
+    print fetch('GOOG', '2010-01-01', '2016-04-30')
